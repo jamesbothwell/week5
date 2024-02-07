@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    color: white;
+    padding: 10px;
+}
+
+.wrong{
+    background-color: red;
+}
+
+.right {
+    background-color: green;
+}
+
+.hint {
+    background-color: dimgrey;
+}
